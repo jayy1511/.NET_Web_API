@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\middleware\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middleware\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\filters\\requireheaderattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\requireheaderattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\exceptions\\appnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\exceptions\\appnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\services\\ipublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\ipublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\dtos\\memberdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\memberdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\dtos\\publisherdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\publisherdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\dtos\\genredtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\genredtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\model\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|c:\\jay\\epita\\semester 5\\microsoft .net\\project_1\\webapplication1\\webapplication1\\migrations\\20251021102644_addgenrepublishermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F06A2-A445-4A89-BFF6-94AF5281679F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251021102644_addgenrepublishermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T10:28:35.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251021102644_AddGenrePublisherMember.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Migrations\\20251021102644_AddGenrePublisherMember.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251021102644_AddGenrePublisherMember.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Migrations\\20251021102644_AddGenrePublisherMember.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20251021102644_AddGenrePublisherMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:26:44.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:19:52.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:19:39.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CorrelationIdMiddleware.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Middleware\\CorrelationIdMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middleware\\CorrelationIdMiddleware.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Middleware\\CorrelationIdMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middleware\\CorrelationIdMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:19:24.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequireHeaderAttribute.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Filters\\RequireHeaderAttribute.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Filters\\RequireHeaderAttribute.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Filters\\RequireHeaderAttribute.cs",
+              "RelativeToolTip": "WebApplication1\\Filters\\RequireHeaderAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:18:41.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppNotFoundException.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Exceptions\\AppNotFoundException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Exceptions\\AppNotFoundException.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Exceptions\\AppNotFoundException.cs",
+              "RelativeToolTip": "WebApplication1\\Exceptions\\AppNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:18:06.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:17:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:16:43.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:14:34.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\MemberService.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\MemberService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\MemberService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:14:10.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\PublisherService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\PublisherService.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\PublisherService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\PublisherService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:13:55.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\GenreService.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\GenreService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\GenreService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:13:36.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\IMemberService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IMemberService.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\IMemberService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:13:11.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPublisherService.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\IPublisherService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IPublisherService.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\IPublisherService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IPublisherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:12:57.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\IGenreService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IGenreService.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Services\\IGenreService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:12:41.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MemberDtos.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\DTOs\\MemberDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\MemberDtos.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\DTOs\\MemberDtos.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\MemberDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:12:24.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PublisherDtos.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\DTOs\\PublisherDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\PublisherDtos.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\DTOs\\PublisherDtos.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\PublisherDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:12:09.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenreDtos.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\DTOs\\GenreDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\GenreDtos.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\DTOs\\GenreDtos.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\GenreDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:11:51.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:11:34.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Book.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Model\\Book.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:11:20.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Model\\Member.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Member.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Model\\Member.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:11:08.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Model\\Publisher.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Publisher.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Model\\Publisher.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:10:51.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Model\\Genre.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Genre.cs",
+              "ToolTip": "C:\\JAY\\EPITA\\Semester 5\\Microsoft .NET\\Project_1\\WebApplication1\\WebApplication1\\Model\\Genre.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:10:27.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

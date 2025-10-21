@@ -5,17 +5,21 @@ namespace WebApplication1.Models
 {
     public class Book
     {
-        [Key]                           // Attribute: primary key
         public int Id { get; set; }
 
-        [Required, MaxLength(200)]      // Attributes: validation
+        [Required, MaxLength(200)]
         public string Title { get; set; } = null!;
 
-        [PublishedYear]                 // Custom attribute
+        [PublishedYear]
         public int Year { get; set; }
 
-        // RELATIONSHIP: many Books → one Author (optional)
         public int? AuthorId { get; set; }
         public Author? AuthorRef { get; set; }
+
+        public int? GenreId { get; set; }
+        public Genre? Genre { get; set; }
+
+        public int? PublisherId { get; set; }
+        public Publisher? Publisher { get; set; }
     }
 }
